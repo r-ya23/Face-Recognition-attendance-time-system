@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>att2-removebg-preview.png</file>
+    <file>att2.jpg</file>
+    <file>attendance vector.jpg</file>
+    <file>attendance_vector-removebg-preview.png</file>
+    <file>attendance vector.jpg</file>
+    <file>logo.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>icon.png</file>
+  </qresource>
+</RCC>
