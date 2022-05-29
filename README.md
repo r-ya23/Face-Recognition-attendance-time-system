@@ -8,19 +8,14 @@ It has real time face recognition technology where yo can check in once , then c
 
 
 
-libraries:
+Libraries:
 
-Dlib version 19.18.0
+dlib version 19.18.0  
+face-recognition   
+PyQt5  
+PyQt5-tools  
+cv2   
+cmake   
 
-face-recognition
-
-PyQt5
-
-PyQt5-tools
-
-cv2
-
-cmake
-
-
+  
 Python version used : Python 3.6
